@@ -1,13 +1,13 @@
 # PLDEQuizGame
 
-Technologies and environment used: <br />
-REST <br />
-Redis <br />
-Springboot <br />
-Postman <br />
-Intelij IDEA <br />
+### Technologies and environment used: <br />
+* REST <br />
+* Redis <br />
+* Springboot <br />
+* Postman <br />
+* Intelij IDEA <br />
 
-Mappings:<br /><br />
+### Mappings:<br />
 http://localhost:9090/words <br />
 ![PLDEQuizgame5](https://user-images.githubusercontent.com/17436179/147108529-12a47d81-b353-4d2f-b2ff-19411ab0bcd0.png)<br />
 
